@@ -1,0 +1,17 @@
+{
+  "name": "scheduled-monitoring",
+  "description": "Cron/Scheduler trigger를 활용한 서비스 모니터링",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite-node --watch src/index.ts",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.14",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7",
+    "vite-node": "^0.22.1"
+  }
+}
