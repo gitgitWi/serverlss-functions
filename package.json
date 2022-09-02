@@ -1,0 +1,17 @@
+{
+  "name": "serverless-functions",
+  "version": "0.1.0",
+  "author": "gitgitWi <wiii@kakao.com>",
+  "private": true,
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/**/*"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.2"
+  }
+}
