@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "rangav.vscode-thunder-client",
+    "wakatime.vscode-wakatime",
+    "redhat.vscode-yaml",
+    "mutantdino.resourcemonitor",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "wix.vscode-import-cost",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "dbaeumer.vscode-eslint",
+    "igorsbitnev.error-gutters",
+    "kisstkondoros.vscode-codemetrics",
+    "streetsidesoftware.code-spell-checker",
+    "evondev.indent-rainbow-palettes"
+  ]
+}
