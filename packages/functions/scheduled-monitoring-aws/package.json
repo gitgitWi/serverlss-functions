@@ -1,0 +1,16 @@
+{
+  "name": "scheduled-monitoring-aws",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "type-check": "tsc -noEmit",
+    "build": "yarn type-check && esbuild src/index.ts --bundle --platform=node --target=node16 --outfile=dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.15",
+    "esbuild": "^0.15.7",
+    "typescript": "^4.8.2"
+  }
+}
